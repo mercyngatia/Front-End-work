@@ -1,0 +1,155 @@
+body{
+	background-color: #bfbfbf;
+	width: 1280px;
+	
+	margin: 0 auto;
+
+}
+.compound{
+	margin: 0 auto;
+	width: 1280px;
+	height: 850px;
+	background-color: #ededed;
+
+}
+
+.tin{
+	background-color: #a94f4f;
+	height: 50px;
+	width: 1280px;
+	margin: 0 auto;
+
+}
+header{
+	margin-left: 147px;
+	padding-top: 20px;
+	color: #fffeff;
+}
+.carton{
+	width: 1000px;
+	height: 731px;
+	background-color: #ffffff;
+	margin: 0 auto;
+
+}
+.carton1{ 
+	width: 470px;
+	height: 290px;
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	float: left;
+	background-color: #919191;
+}
+.carton2{
+	color: #202020;
+	width: 470px;
+	height: 290px;
+	float: left;
+	background-color: #ffffff;
+	margin-top: 20px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+	color: #565656;
+	
+}
+.carton3{
+	
+	background-color: #919191;
+    height: 200px;
+    width: 306.6px;
+    background-color:yellow;
+    float: left;
+    margin-right: 20px;
+    margin-bottom:20px;
+    margin-left: 20px;
+    background-image: url(../images/chicken.jpg);
+}
+
+.carton4{
+	background-color: #919191;
+	height: 200px;
+	width: 306.6px;
+	background-color:purple;
+	float: left;
+	margin-right: 20px;
+	margin-bottom: 20px;
+	background-image: url(../images/porn.jpg);
+	
+}
+.carton5{
+		height: 200px;
+		width: 306.6px;
+		background-color: #919191;
+		float: left;
+		margin-right: 20px;
+		margin-bottom: 20px;
+		background-image: url(../images/mike.jpg);
+
+	
+}
+.carton6{
+	height: 161px;
+	width: 306.6px;
+	float: left;
+	margin-right:20px;
+	margin-bottom: 20px;
+	margin-left: 20px;
+	background-color: #ffffff;
+	color: #252525;
+
+}
+	
+
+.carton7{
+		height: 161px; 
+		width: 306.6px;
+		float: left;
+		margin-right: 20px;
+		margin-bottom: 20px;
+		background-color: #ffffff;
+		color: #929292;
+
+		
+
+	
+}
+.carton8{
+		height:161px;
+		width: 306.6px;		 
+		background-color:#ffffff ;
+		float: left;
+		margin-right: 20px;
+		margin-bottom: 20px;
+		color: #2e2e2e;
+
+	
+}
+ul li{
+	margin-left: -20px; 
+	color: #222222;
+}
+a {
+	color: #bc7a7c;
+	text-decoration: none;
+}
+h1{
+	color: #a9514d;
+}
+h2{
+	color: #b24a53;
+}
+.field{
+	
+	margin-top: 20px;
+	float: left;
+	color: #9d9d9d;
+}
+.house{
+	margin-top: 20px;
+	float: right;
+	color: #9d9d9d;
+}
+
+

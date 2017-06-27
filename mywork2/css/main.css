@@ -1,0 +1,57 @@
+body{
+	background: purple;
+	background-image: url(../images/lep.jpg);
+
+}
+.container{
+	width: 1000px;
+	margin: 0 auto;
+	background: purple;
+	min-height: 80px;
+	padding: 30px;
+	background-image: url(../images/le3.jpg)
+}
+
+header{
+	background: #222;
+}
+header ul{
+	margin: 0 auto;
+	padding: 0px;
+	text-align: center;
+}
+header ul li{
+	list-style: none;
+	margin: 0px;
+	display: inline;
+	padding: 0px;
+}
+header ul li a{
+	color: #fff;
+	text-decoration: none;
+	display: inline-block;
+	padding: 10px 15px;
+
+}
+header ul li a:hover{
+	color: pink;
+}
+header ul li.active a{
+	color: blue;
+}
+ .containerspace{
+ 	background-image: url(../images/le1.jpg);
+ 	min-height: 80px;
+ 	width: 1000px;
+ 	padding: 30px;
+ 	margin: 0 auto;
+}
+.containercontainer{
+	background-image: url(../images/le5.jpg);
+	margin: 0 auto;
+	min-height: 80px;
+	padding: 30px;
+	width: 1000px;
+	 
+ 
+}

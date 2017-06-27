@@ -1,0 +1,64 @@
+body{
+	background-color: #6dbf51;
+}
+.log{
+	background-color: #ffffff;
+	width: 497px;
+	height: 394px;
+	margin: 0 auto;
+	margin-top: 182px;
+	margin-bottom: 230px;
+	box-shadow: inset -1px -1px 0.5px #408623;
+
+}
+.log .uname input {
+	width: 350px;
+	height: 63px;
+	margin: 63px 62px 0px 62px;
+	padding-left: 20px;
+	background-color: #f2f2f2;
+	border: 0;
+	color: #bdbdbd;
+
+
+
+
+}
+.log .pword input {
+	width: 350px;
+	height: 63px;
+	margin: 22px 62px 0px 62px;
+    padding-left: 20px;
+	background-color: #f2f2f2;
+	border: 0;
+	color: #bdbdbd;
+
+
+
+}
+
+.button input[type="submit"]{
+	width: 370px;
+	height: 63px;
+    margin: 22px 62px 0px 62px;
+	background-color: #00b242;
+	color: #c2eeca;
+	border: 0;
+
+
+}
+.reg{
+	text-align: center;
+	margin-top: 22px;
+	color: #d7d7d7;
+}
+a{
+	color: #6acc83;
+	text-decoration: none;
+}
+
+
+
+
+
+

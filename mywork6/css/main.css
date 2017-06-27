@@ -1,0 +1,92 @@
+body{
+	background-color: violet;
+	}
+	/*background-image: url(../images/black.jpg);
+*/	/*opacity: 0.7;
+*/	/*min-height: 500px;
+	margin-top: 50px;*/
+
+.container{
+	background-color: #000;
+	width: 100%;
+	height: 638px;
+}
+p{
+	color: #fff;
+	text-align: center;
+	letter-spacing: 5px;
+	font-size: 55px;
+} 
+li{
+	float: right;
+}
+
+header ul li{
+	list-style: none;
+	margin: 0px;
+	display: inline;
+	padding: 0px;
+}
+header{
+	background: #000;
+	height: 100px;
+	margin: 0 auto;
+
+}
+header ul{
+	margin: 0 auto;
+	padding: 0px;
+	text-align: center;
+	
+}
+header ul li a{
+	color: #fff;
+	text-decoration: none;
+	display: inline-block;
+	padding: 10px 15px;
+	margin-top: 30px;
+	margin-right: 50px;
+
+}
+header ul li a:hover{
+	color: blue;
+}
+header ul li.active {
+	color: black;
+}
+
+.circle{
+   width: 300px;
+    height: 300px;
+    background:blue;
+    border-radius: 280px;
+    margin: 0 auto;
+  /*  margin-top: 50px;*/
+}
+.about{
+	background-color: #fff;
+	height: 638px;
+	width: 100%;
+	margin: 0 auto;
+}
+.myself{
+	background-color: blue;
+	height: 502px;
+	width: 82%;
+	margin: 0 auto;
+	margin: 0 10% 0 10%;
+	
+}
+
+.myself p{
+	font-size: 20px;
+	color: #000;
+	text-align: left;
+
+}
+
+
+
+
+
+
